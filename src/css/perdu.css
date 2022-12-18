@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.perdu{   
+    height: 100vh; 
+    background-image: url(http://choualbox.com/Img/1507486173504.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.perdu h1{
+    font-size: 5em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #4c0300;
+}
